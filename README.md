@@ -1,5 +1,4 @@
-# termux
-```    
+# termux  
 - 单独安装Maiark
 - MaiARK_arm
 ```
