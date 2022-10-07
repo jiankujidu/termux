@@ -1,3 +1,4 @@
+echo -e $"\n公众号:一起瞎折腾\nQ群:153361744"
 set -x \
 && echo -e "\n\
 export QL_DIR=/ql\n\
